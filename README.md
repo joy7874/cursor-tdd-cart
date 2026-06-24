@@ -1,1 +1,1 @@
-"# cursor-tdd-cart" 
+# cursor-tdd-cart
